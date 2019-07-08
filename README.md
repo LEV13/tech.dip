@@ -45,8 +45,8 @@
 
 ##### Главная страница web приложения:
 
-![Home page](http://projects.mypass.cloud/tech/home_page.png)
+![Home page](http://projects.mypass.cloud/tech/home_page1.png)
 
 ##### Страница тренажера:
 
-![Simul_page](http://projects.mypass.cloud/tech/simul_page.png)
+![Simul_page](http://projects.mypass.cloud/tech/simul_page1.png)
