@@ -1,0 +1,10 @@
+﻿AddDefaultCharset UTF-8
+RewriteEngine On
+RewriteRule ^player/([0-9]+)/? player.php?id=$1 [L]
+RewriteRule ^type-libs/? type_libs.php [L]
+RewriteRule ^type-elements/? type_elements.php [L]
+RewriteRule ^tags-elements/? tags_elements.php [L]
+RewriteRule ^poisk-elements/? poisk_elements.php [L]
+RewriteRule ^poisk-libs/? poisk_libs.php [L]
+
+
