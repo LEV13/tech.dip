@@ -22,7 +22,7 @@
 
 #### ER-диаграмма
 
-![ER диаграмма](http://projects.mypass.cloud/tech/erd.png)
+![ER диаграмма](https://github.com/LEV13/tech.dip/blob/master/files/erd.png)
 
 #### Структура
 
@@ -49,11 +49,11 @@
 
 ##### Главная страница web приложения:
 
-![Home page](http://projects.mypass.cloud/tech/home_page1.png)
+![Home page](https://github.com/LEV13/tech.dip/blob/master/files/home_page.png)
 
 ##### Страница тренажера:
 
-![Simul_page](http://projects.mypass.cloud/tech/simul_page1.png)
+![Simul_page](https://github.com/LEV13/tech.dip/blob/master/files/simul_page.png)
 
 Интересно было реализовывать функции поиска. Поиск осуществляется по библиотекам и элементам. Поиск библиотек выполняется по трем критерия: по коду, тексту и по типу. Поиск элементов выполняется по четырем критериям: по коду, тексту, тегу и типу. При выводе результата можно перейти на страницу выбранного элемента или библиотеки.
 
@@ -63,9 +63,9 @@
 
 ##### Список документов:
 
-* [Диплом](http://projects.mypass.cloud/tech/diplom.docx)
-* [Презентация](http://projects.mypass.cloud/tech/presentation.pptx)
-* [Дневника практики](http://projects.mypass.cloud/tech/dnevnik_praktiki.doc)
+* [Диплом](https://github.com/LEV13/tech.dip/blob/master/files/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC.docx)
+* [Презентация](https://github.com/LEV13/tech.dip/blob/master/files/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F.pptx)
+* [Дневника практики](https://github.com/LEV13/tech.dip/blob/master/files/%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA%20%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B8.doc)
 
 
 
